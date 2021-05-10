@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/muhammetkocyigit0/react-builder/issues"
   },
-  "homepage": "https://github.com/muhammetkocyigit0/react-builder#readme"
+  "homepage": "https://github.com/muhammetkocyigit0/react-builder#readme",
+  "dependencies": {
+    "ast-parser": "^0.0.6",
+    "async": "^3.2.0",
+    "codewriter": "^1.4.0-beta.1",
+    "ora": "^5.4.0"
+  },
+  "devDependencies": {
+    "react-scanner": "^1.0.0"
+  }
 }
